@@ -8,3 +8,7 @@ models.
 
 There is no documentation yet, see the examples directory
 and the tests.
+
+## to do
+    - Fix tests
+    - make documentation
